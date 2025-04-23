@@ -1,0 +1,42 @@
+# ==========================
+# VS Code Settings
+# ==========================
+.vscode/                 
+
+# ==========================
+# Python: Bytecode & Cache
+# ==========================
+__pycache__/             
+*.pyc                    
+*.pyo                   
+*.pyd                    
+
+# ==========================
+# Virtual Environments
+# ==========================
+.env/                    
+.venv/
+venv/
+ENV/
+env/
+
+# ==========================
+# Personal Idea Files
+# ==========================
+*ideas.txt               
+*Ideen.txt               
+
+# ==========================
+# Miscellaneous Junk
+# ==========================
+*.log                    
+*.tmp                    
+*.bak                    
+*.swp                    
+*~                       
+
+# ==========================
+# OS Specific Files
+# ==========================
+.DS_Store                
+Thumbs.db                
